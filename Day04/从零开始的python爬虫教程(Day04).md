@@ -1,4 +1,3 @@
-﻿@[TOC](目录)
 # 简介
 
 > XPath即为XML路径语言（XML Path Language），它是一种用来确定XML文档中某部分位置的语言。(来源于[百度百科](https://baike.baidu.com/item/XPath/5574064?fr=aladdin))
