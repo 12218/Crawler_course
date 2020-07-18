@@ -13,5 +13,6 @@
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day01">Day01</a> | http原理及基本网页构造 | 2020.7.16 |
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day02">Day02</a> |  requests库的基本使用  | 2020.7.17 |
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day03">Day03</a> |  正则表达式的基本使用  | 2020.7.17 |
+| <a href="https://github.com/12218/Crawler_course/tree/master/Day04">Day04</a> |  XPath和lxml的基本使用  | 2020.7.17 |
 
 本人的CSDN博客“从零开始的python爬虫教程”专栏位于<a href="https://blog.csdn.net/weixin_44338780/category_10205148.html">此处</a>。
