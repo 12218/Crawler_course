@@ -16,5 +16,6 @@
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day03">Day03</a> |  正则表达式的基本使用  | 2020.7.17 |
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day04">Day04</a> |  XPath和lxml的基本使用  | 2020.7.18 |
 | <a href="https://github.com/12218/Crawler_course/tree/master/Day05">Day05</a> |  BeautifulSoup库的基本使用  | 2020.7.19 |
+| <a href="https://github.com/12218/Crawler_course/tree/master/Day06">Day06</a> |  Selenium库的基本使用  | 2020.7.23 |
 
 本人的CSDN博客“从零开始的python爬虫教程”专栏位于<a href="https://blog.csdn.net/weixin_44338780/category_10205148.html">此处</a>。
