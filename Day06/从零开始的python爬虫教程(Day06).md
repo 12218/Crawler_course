@@ -21,12 +21,15 @@ Selenium需要使用webdriver对浏览器进行驱动，故此需要下载安装
 
 下载地址：[https://chromedriver.storage.googleapis.com/index.html](https://chromedriver.storage.googleapis.com/index.html)
 ![01](https://img-blog.csdnimg.cn/20200722224800677.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMzODc4MA==,size_16,color_FFFFFF,t_70)
+
 注意：务必下载与你的浏览器相对应的webdriver版本！！！
 
 之后需要将webdriver添加到环境变量。但是又一种更简单的方法：
 
 将webdriver.exe文件放入python的安装路径(如下图)。
+
 ![02](https://img-blog.csdnimg.cn/20200722225436215.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMzODc4MA==,size_16,color_FFFFFF,t_70)
+
 如果运行以下代码之后，电脑自动打开了谷歌浏览器，则安装成功。
 
 ```python
@@ -105,6 +108,7 @@ browser.switch_to.frame('Frame2') # 切换到名为Frame2的框架中
 ```
 
 例：
+
 [https://www.runoob.com/quiz/html-quiz.html](https://www.runoob.com/quiz/html-quiz.html)
 ![03](https://img-blog.csdnimg.cn/20200722232754213.png)
 
